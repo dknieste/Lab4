@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="675.0" prefWidth="700.0" style="-fx-background-color: #208c29;" stylesheets="@PokerTheme.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+   </top>
+   <bottom>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyv.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+   </bottom>
+   <left>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+   </left>
+   <right>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="96.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/emptyh.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+   </right>
+   <center>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <top>
+            <ToggleButton mnemonicParsing="false" rotate="180.0" text="Player Join" BorderPane.alignment="CENTER" />
+         </top>
+         <left>
+            <ToggleButton mnemonicParsing="false" rotate="90.0" text="Player Join" BorderPane.alignment="CENTER_RIGHT" />
+         </left>
+         <right>
+            <ToggleButton mnemonicParsing="false" rotate="-90.0" text="Player Join" BorderPane.alignment="CENTER" />
+         </right>
+         <bottom>
+            <ToggleButton mnemonicParsing="false" text="Player Join" BorderPane.alignment="CENTER" />
+         </bottom>
+         <center>
+            <FlowPane alignment="CENTER" columnHalignment="CENTER" hgap="40.0" prefHeight="200.0" prefWidth="200.0" vgap="20.0" BorderPane.alignment="CENTER">
+               <children>
+                  <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/ciscpokerlab/classic-cards/b2fv.png" />
+                     </image>
+                  </ImageView>
+                  <HBox prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/emptyv.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/emptyv.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/emptyv.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/emptyv.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="96.0" fitWidth="71.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/emptyv.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+                  <MenuButton mnemonicParsing="false" text="Game Type">
+                    <items>
+                      <MenuItem mnemonicParsing="false" text="Action 1" />
+                      <MenuItem mnemonicParsing="false" text="Action 2" />
+                    </items>
+                  </MenuButton>
+                  <Button mnemonicParsing="false" text="Play Game!" />
+               </children>
+            </FlowPane>
+         </center>
+      </BorderPane>
+   </center>
+</BorderPane>
